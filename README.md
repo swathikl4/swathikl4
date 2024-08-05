@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swathikl4
-- 👀 I’m interested in Web Development
+- 👀 PYTHON|SQL|BASH|DATA SCIENCE
 
 <!---
 swathikl4/swathikl4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
